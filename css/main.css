@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#roma{
+  position: relative;
+  background-image: url(https://www.wowtravel.it/wp-content/uploads/2018/07/upload474untitleddesign17.jpg);
+  width: 100vw;
+  height: 240px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: inline-block;
+}
+
+#roma h2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+#copenaghen{
+  position: relative;
+  background-image: url(https://www.turismo.it/typo3temp/pics/623edff35e.jpg);
+  width: 100vw;
+  height: 240px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: inline-block;
+
+}
+
+#copenaghen h2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+#tokyo{
+  position: relative;
+  background-image: url(https://hips.hearstapps.com/cit.h-cdn.co/assets/16/31/2560x1442/gallery-1470391641-tokyo-da-non-perdere-6.jpg?resize=980:*);
+  width: 100vw;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+display: inline-block;
+}
+
+#tokyo h2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
